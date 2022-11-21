@@ -3,5 +3,6 @@ button {
 }
 button:hover {
     background-color: cornflowerblue;
+    color: white;
     transition: 2s;
 }
